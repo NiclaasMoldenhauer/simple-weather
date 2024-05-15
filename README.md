@@ -14,11 +14,11 @@ Bevor du diese App ausführen kannst, solltest du sicherstellen, dass die folgen
 1. Klone dieses Repository:
 
    ```bash
-   git clone https://github.com/dein-benutzername/dein-repository.git
+   git clone https://github.com/TeggeAtze/demo-project.git
    
 2. Navigiere in das Projektverzeichnis
 
-cd dein-repository
+cd wetter-app
 
 3. Installiere die Abhängigkeiten:
 
